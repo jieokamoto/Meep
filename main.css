@@ -1391,14 +1391,6 @@
   background: url("https://i.imgur.com/KQQWcTY.png") no-repeat;
   background-size: 100%;
 }
-:root .app-2rEoOp::before {
-  top: 80px;
-  right: 116px;
-  width: 200px;
-  height: 120px;
-  background: url("https://i.imgur.com/0nsnP69.png") no-repeat;
-  background-size: 100%;
-}
 :root .app-2rEoOp::after {
   bottom: 20px;
   right: 45%;
